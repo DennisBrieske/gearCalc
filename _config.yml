@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Anpassbare Ergebnisausgabe
     description                           : Individuelle Anzeigeoptionen für Übersetzungsverhältnis, Strecke pro Umdrehung und Geschwindigkeit. Unterstützung für internationale Einheiten.
-    fontawesome_icon_name                 : worm
+    fontawesome_icon_name                 : cogs
 
   - title                                 : Ergebnismanagement
     description                           : Mehrere Berechnungen speichern und vergleichen. Setze eine Berechnung als Referenzwert für den Vergleich. Lösche einzelne Ergebnisse nach Bedarf.
