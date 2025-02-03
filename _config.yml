@@ -52,6 +52,14 @@ features                                  :
     description                           : Einfache Eingabe mit automatischer Formatierung. Kompatibel mit Dezimal- & Ganzzahlen. Eingaben und Einstellungen bleiben gespeichert.
     fontawesome_icon_name                 : toolbox
 
+  - title                                 : Mehrsprachige Unterstützung
+    description                           : Die App ist in mehreren Sprachen verfügbar, sodass Nutzer weltweit von den Funktionen profitieren können.
+    fontawesome_icon_name                 : globe
+
+  - title                                 : Modernes & intuitives Design
+    description                           : Übersichtliches, anpassbares Layout für eine optimale Nutzererfahrung auf Smartphones und Tablets.
+    fontawesome_icon_name                 : mobile
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
