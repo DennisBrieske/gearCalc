@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Berechne und vergleiche das Übersetzungsverhältnis deines Slotcars. Optimiere dein Setup mit GearCalc – einfach Eingeben, Berechnen und Performance testen!
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,9 +21,9 @@ enable_smart_app_banner                   : false                               
 
 # Information About Yourself
 your_name                                 : Dennis Brieske
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Hamwarde
-email_address                             : hamwardegp@gmail.com
+your_link                                 : https://h-gp.de
+your_city                                 :
+email_address                             :
 facebook_username                         :                                           
 instagram_username                        : hamwardegp
 twitter_username                          :
@@ -36,9 +36,9 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Getriebe- & Geschwindigkeitsberechnung
+    description                           : ✅ Berechnung der Übersetzung (Gear Ratio) anhand von Motorritzel & Kronrad ✅ Ermittlung der zurückgelegten Strecke pro Radumdrehung ✅ Berechnung der Geschwindigkeit in cm/s oder anderen Einheiten
+    fontawesome_icon_name                 : calc
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
